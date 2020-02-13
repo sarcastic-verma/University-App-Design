@@ -1,0 +1,4 @@
+#Wed Feb 12 15:20:10 IST 2020
+base.0=/home/noobie/AndroidStudioProjects/University-App-Design/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

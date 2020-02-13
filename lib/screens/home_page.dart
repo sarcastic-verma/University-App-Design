@@ -1,5 +1,5 @@
-import 'package:university_app_design/components/app_bar.dart' as appBar;
 import 'package:flutter/material.dart';
+import 'package:university_app_design/components/app_bar.dart' as appBar;
 
 class HomePage extends StatefulWidget {
   @override
@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
                   },
                 ),
                 Icon(Icons.notifications_active),
-                SizedBox(width: 20.0)
+                //SizedBox(width: 20.0)
               ],
             ),
             appBarExpanded ? appBar.MyExpandedAppBar() : appBar.MyAppBar(),
